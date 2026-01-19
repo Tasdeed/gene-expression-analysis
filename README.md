@@ -18,4 +18,4 @@ To Run the Program (using my dataset):
     - Open notebooks/01_data_exploration.ipynb
     - Run all cells
 
-- To change to anoter dataset, Change `geo_accession = 'GSE68849'` to any GEO dataset ID
+- To change to another dataset, Change `geo_accession = 'GSE68849'` to any GEO dataset ID
